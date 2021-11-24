@@ -1,8 +1,8 @@
-# compiled output
+# 打包目录
 /dist
 /node_modules
 
-# Logs
+# 日志
 logs
 *.log
 npm-debug.log*
@@ -13,7 +13,7 @@ lerna-debug.log*
 # OS
 .DS_Store
 
-# Tests
+# 测试
 /coverage
 /.nyc_output
 
@@ -26,7 +26,7 @@ lerna-debug.log*
 .settings/
 *.sublime-workspace
 
-# IDE - VSCode
+# VSCode 配置以及debug配置
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
